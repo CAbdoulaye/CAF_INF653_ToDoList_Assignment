@@ -1,0 +1,92 @@
+main {
+  margin: 20px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+main h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+main section {
+  margin-bottom: 20px;
+}
+
+main section p {
+  margin: 5px 0;
+}
+
+main form {
+  margin-top: 10px;
+}
+
+main input[type="text"],
+main input[type="submit"] {
+  padding: 5px;
+  margin-right: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+main input[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+}
+
+footer nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+footer nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+footer nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+footer nav ul li a:hover {
+  color: #007bff;
+}
+
+footer p {
+  margin-top: 10px;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+#bottomSpace{
+  padding-bottom: 48px;
+}
+body {
+  padding-bottom: 50px;
+}
